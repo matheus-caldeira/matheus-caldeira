@@ -1,30 +1,29 @@
-## Hey, ya! Welcome
+## Hey! Welcome
 
-- 🌱 Currently specializing and learning more about NodeJS and Typescript
+- 🌱 Currently specializing and learning more about NodeJS with Typescript
 
- <div>
+<div>
   <a href="https://github.com/matheus-caldeira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-caldeira&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-caldeira&layout=compact&langs_count=10&theme=vue"/>
 </div>
-<div style="display: flex; flex-direction: row; justify-content: center;">
   
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-  ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-  ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
-  ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
-  ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
-  ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
-  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=white)&nbsp;
+  ![Node.Js](https://img.shields.io/badge/-Node.Js-000000?style=flat&logo=node.js&logoColor=white)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react&logoColor=white)&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=white)&nbsp;
+  ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=white)&nbsp;
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-000000?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-000000?style=flat&logo=github-actions&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-000000?style=flat&logo=insomnia&logoColor=white)&nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)&nbsp;
 </div>
   
   ##
@@ -36,3 +35,6 @@
   ![Snake animation](https://github.com/matheus-caldeira/matheus-caldeira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+
+[github-stats]: https://github-readme-stats.vercel.app/api?username=matheus-caldeira&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true
