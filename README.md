@@ -1,6 +1,7 @@
 ## Hey! Welcome
 
-- 🌱 Currently specializing and learning more about NodeJS with Typescript
+- Full Stack Developer
+- Currently specializing and learning more about Javascript with Typescript
 
 <div>
   <a href="https://github.com/matheus-caldeira">
