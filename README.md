@@ -7,9 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-caldeira&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-caldeira&layout=compact&langs_count=10&theme=vue"/>
 </div>
-<div style="display: inline_block"><br>
-  ![TypeScript](https://img.shields.io/badge/-Python-05122A?style=flat&logo=typescript)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/Shell-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
+<div style="display: inline_block">
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
   ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
