@@ -4,7 +4,7 @@
 
  <div>
   <a href="https://github.com/matheus-caldeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-caldeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-caldeira&show_icons=true&theme=vue&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-caldeira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
